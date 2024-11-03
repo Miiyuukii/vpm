@@ -1,7 +1,7 @@
 {
     "name":"unstblr's Listing",
     "id":"dev.unstblr.package",
-    "url":"https://vpm.unstblr.xyz/index.json",
+    "url":"https://vpm.unstblr.xyz/source.json",
     "author":{
         "email":"uwustblr@gmail.com",
         "name":"unstblr",
