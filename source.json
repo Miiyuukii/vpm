@@ -1,13 +1,13 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"unstblr's Listing",
+    "id":"dev.unstblr.package",
     "url":"https://vrchat-community.github.io/template-package-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"uwustblr@gmail.com",
+        "name":"unstblr",
+        "url":"https://unstblr.xyz"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"My scripts for world making.",
     "infoLink":{
         "url":"http://github.com/vrchat-community/template-package-listing",
         "text":"View on GitHub"
