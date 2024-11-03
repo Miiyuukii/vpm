@@ -1,7 +1,7 @@
 {
     "name":"unstblr's Listing",
     "id":"dev.unstblr.package",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://vpm.unstblr.xyz/template-package-listing/index.json",
     "author":{
         "email":"uwustblr@gmail.com",
         "name":"unstblr",
@@ -9,7 +9,7 @@
     },
     "description":"My scripts for world making.",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/miiyuukii/vpm",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
